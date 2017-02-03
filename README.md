@@ -1,1 +1,1 @@
-# responsive.viewer
+# responsive-viewer
